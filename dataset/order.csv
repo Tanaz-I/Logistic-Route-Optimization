@@ -1,5 +1,5 @@
 Order_ID,Customer_ID,Warehouse_ID,Status
-O001,C001,W005,Pending
+O001,C001,W002,Pending
 O002,C002,W004,Pending
 O003,C003,W003,Pending
 O004,C004,W002,Pending
@@ -7,7 +7,7 @@ O005,C005,W004,Pending
 O006,C006,W001,Pending
 O007,C007,W001,Pending
 O008,C008,W002,Pending
-O009,C009,W003,Pending
+O009,C009,W005,Pending
 O010,C010,W004,Pending
 O011,C011,W005,Pending
 O012,C012,W001,Pending
@@ -27,5 +27,5 @@ O025,C025,W001,Pending
 O026,C026,W004,Pending
 O027,C027,W002,Pending
 O028,C028,W002,Pending
-O029,C029,W002,Pending
+O029,C029,W005,Pending
 O030,C030,W005,Pending

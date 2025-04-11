@@ -6,9 +6,10 @@ geocoder = OpenCageGeocode(api_key)
 
 
 datasets = {    
-    r"D:/sem 6/big data lab/bd_dataset/vehicle.csv": "Current_Location",  
-    r"D:/sem 6/big data lab/bd_dataset/warehouse.csv": "Address",
-    r"D:/sem 6/big data lab/bd_dataset/customer.csv": "Address"     
+    r"D:/sem 6/big data lab/Logistic-Route-Optimization/dataset/vehicle.csv": "Current_Location",
+    r"D:/sem 6/big data lab/Logistic-Route-Optimization/dataset/warehouse.csv": "Address",
+    r"D:/sem 6/big data lab/Logistic-Route-Optimization/dataset/customer.csv": "Address"
+         
 }
 
 

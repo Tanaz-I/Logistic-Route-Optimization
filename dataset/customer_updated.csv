@@ -1,9 +1,9 @@
 Customer_ID,Name,Address,Contact_No,Latitude,Longitude
-C001,Arun Kumar,"45, MG Road, Bengaluru",+91 9868157452,12.9759907,77.6046565
+C001,Arun Kumar,"45, MG Road, Bengaluru",+91 9868157452,12.9727426,77.6183958
 C002,Divya Sharma,"12, T Nagar, Chennai",+91 9836983067,13.08784,80.27847
 C003,Mohan Raj,"34, Kakkanad, Kochi",+91 9834409519,9.93988,76.26022
 C004,Priya Reddy,"56, Jubilee Hills, Hyderabad",+91 9811675694,17.4308362,78.4102882
-C005,Karthik Nair,"78, Anna Salai, Chennai",+91 9896573418,13.0316619,80.2408675
+C005,Karthik Nair,"78, Anna Salai, Chennai",+91 9896573418,13.0436193,80.2479273
 C006,Sneha Kapoor,"23, Rajajinagar, Bengaluru",+91 9832932007,12.9882338,77.554883
 C007,Vikram Singh,"90, Aluva, Kochi",+91 9830905329,9.93988,76.26022
 C008,Anjali Menon,"11, Banjara Hills, Hyderabad",+91 9814968052,17.4177464,78.4399014
@@ -19,7 +19,7 @@ C017,Ritika Joshi,"10, Whitefield, Bengaluru",+91 9871369427,12.9766481,77.73974
 C018,Vinod Choudhary,"81, Thiruvanmiyur, Chennai",+91 9824075318,12.9858948,80.2644215
 C019,Swati Mishra,"48, Mangaluru",+91 9855681803,12.8698101,74.8430082
 C020,Ajay Pillai,"25, Trichy, Tamil Nadu",+91 9842660692,10.8073083,78.6837965
-C021,Lakshmi Narayan,"40, Vyttila, Kochi",+91 9841388097,9.964215,76.31846
+C021,Lakshmi Narayan,"40, Vyttila, Kochi",+91 9841388097,9.93988,76.26022
 C022,Gopal Menon,"19, Secunderabad, Telangana",+91 9891175708,17.4337246,78.5006827
 C023,Shivani Kapoor,"37, Ambattur, Chennai",+91 9812510203,13.08784,80.27847
 C024,Bala Subramani,"29, Kukatpally, Hyderabad",+91 9824384655,17.4930841,78.4054408
@@ -27,5 +27,5 @@ C025,Harini Selvan,"77, Perumbavoor, Kerala",+91 9865436620,10.1147548,76.477815
 C026,Manoj Prasad,"14, Basavanagudi, Bengaluru",+91 9893172013,12.9417261,77.5755021
 C027,Radha Mohan,"88, Alwarpet, Chennai",+91 9839057012,13.0338602,80.2545491
 C028,Tarun Sharma,"72, Gachibowli, Hyderabad",+91 9834636324,17.4436222,78.3519638
-C029,Deepa Suresh,"33, Kazhakootam, Trivandrum",+91 9822106678,8.4855,76.94924
+C029,Deepa Suresh," Gandhipuram, Tamil Nadu 641012",+91 9822106678,11.0182714,76.9677744
 C030,Kiran Kumar,"58, RS Puram, Coimbatore",+91 9889585956,11.0080177,76.9501661
